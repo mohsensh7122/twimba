@@ -126,3 +126,9 @@ button{
 .hidden{
     display: none;
 }
+
+/* icons */
+
+.fa-solid {
+    color: #999;
+}
